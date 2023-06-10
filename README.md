@@ -11,10 +11,17 @@
 ## Take a Look 📺
 
 📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8)** - _Frontend Developer & UX Lead_
-- Developed the frontend of a mobile app with **React Native**, **React Native Paper**, **HTML**, **CSS** and **Firebase** that allowed runners to find running buddies and create events.
+
+Runtomo is a mobile app for runners to find running buddies and create events. The goal is to offer people who want to meet others and run together a chance to meet safely. 
+
+The name Runtomo comes from "Run" and "Tomo", short for "tomodachi", which means "friend" in Japanese!
+
+Tech Stack: React Native, React Native Paper, HTML, CSS and Firebase.
 
 **🖥️ [Turnip: Public Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975)** - _Full-Stack Developer & Product Owner_
-- Built a web app with **JavaScript**, **React**, **Node**, **Express**, and **PostgreSQL** where users could buy and sell their used items.
+Turnip is a web app I built that allows users to buy and sell their used items. The app was a beautiful app I used while I was in Korea called Karrot, which is an e-commerce app. I was fed up with the current offerings of buy-and-sell websites, so I created my own with a more modern and user-friendly design.
+
+Tech stack: JavaScript, React, Node, Express, Knex, PostgreSQL, and Firebase.
 
 ## Tech Skills 💻
 
