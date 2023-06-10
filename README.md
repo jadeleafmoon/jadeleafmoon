@@ -14,7 +14,7 @@ I was a Frontend Engineer for Runtomo, a mobile app for runners, built with **Re
 
 📺 [Video Demo of Runtomo](https://youtu.be/ijyDfnP7na8)
 
-## Technical Skills 💻
+## Tech Skills 💻
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frontend**: React, React Native
