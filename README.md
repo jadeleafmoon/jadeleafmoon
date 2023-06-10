@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ravi
 
-**I'm a software engineer passionate about frontend development and UI / UX.**
+**I'm a software engineer passionate about frontend development and understanding the user experience.**
 
 
 - 🔭 I’m currently working on an open-source site for [**Canada DevOps Community of Practice Canada**](https://www.linkedin.com/company/canada-devops-community-of-practice/)
