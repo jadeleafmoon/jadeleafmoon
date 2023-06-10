@@ -19,7 +19,7 @@ I was a Frontend Engineer for Runtomo, a mobile app for runners, built with **Re
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frontend**: React, React Native
 - **Backend:** Node, Express, PostgreSQL, Knex
-- **Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, Heroku, Railway, Expo App Store, TDD, Agile
+- **Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, TDD, Heroku, Railway, Expo App Store, Agile
 
 ## Spoken Languages 🗺️
 
