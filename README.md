@@ -12,16 +12,17 @@
 
 📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8)** - _Frontend Developer & UX Lead_
 
-Runtomo is a mobile app for runners to find running buddies and create events. The goal is to offer people who want to meet others and run together a chance to meet safely. 
+Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running a more fun and social where people can explore new parts of their neghborhood and find great running paths. 🏃‍♀️
 
-The name Runtomo comes from "Run" and "Tomo", short for "tomodachi", which means "friend" in Japanese!
+The name Runtomo comes from "Run" and "Tomo", short for "tomodachi", which means "friend" in Japanese! 🏃
 
-Tech Stack: React Native, React Native Paper, HTML, CSS and Firebase.
+Tech Stack: React Native, React Native Paper, HTML, CSS, and Firebase.
 
 **🖥️ [Turnip: Public Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975)** - _Full-Stack Developer & Product Owner_
-Turnip is a web app I built that allows users to buy and sell their used items. The app was a beautiful app I used while I was in Korea called Karrot, which is an e-commerce app. I was fed up with the current offerings of buy-and-sell websites, so I created my own with a more modern and user-friendly design.
 
-Tech stack: JavaScript, React, Node, Express, Knex, PostgreSQL, and Firebase.
+Turnip is a web app I built that allows users to buy and sell their used items. The idea was inspired by a beautiful app I used while I was in Korea called Karrot, which is an e-commerce app. I was fed up with the current offerings of buy-and-sell websites, so I created my own with a more modern and user-friendly design.
+
+Tech stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
 
 ## Tech Skills 💻
 
@@ -30,7 +31,7 @@ Tech stack: JavaScript, React, Node, Express, Knex, PostgreSQL, and Firebase.
 - **Backend:** Node, Express, PostgreSQL, Knex
 - **Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, TDD, Heroku, Railway, Expo App Store, Agile
 
-Though it's been a while, I also have exprience with Vue, GraphQL, Ruby, and Ruby on Rails.
+Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ruby on Rails.
 
 ## Spoken Languages 🗺️
 
