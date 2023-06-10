@@ -37,7 +37,7 @@ Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ru
 
 I've always loved learning languages! 
 - English: Native
-- French: Advanced (I'm from Montreal, Quebec 🇨🇦)
+- French: Advanced
 - Korean: Intermediate (TOPIK 3)
 - Japanese: Beginner
 
