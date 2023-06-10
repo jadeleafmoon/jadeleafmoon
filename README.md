@@ -10,9 +10,8 @@
 
 ## Take a Look 📱
 
-I was a Frontend Engineer for Runtomo, a mobile app for runners, built with **React Native**.
-
-📺 [Video Demo of Runtomo](https://youtu.be/ijyDfnP7na8)
+📺 [Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8)
+- Developed the frontend of a mobile app with React Native, React Native Paper, HTML, CSS and Firebase that allowed runners to find running buddies and create events.
 
 ## Tech Skills 💻
 
