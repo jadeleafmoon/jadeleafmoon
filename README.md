@@ -10,7 +10,7 @@
 
 ## Take a Look 📺
 
-📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8)** - _Frontend Developer & UX Lead_
+📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_**
 
 Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neghborhood and find great running paths. 🏃‍♀️
 
@@ -18,7 +18,7 @@ The name Runtomo comes from "Run" and "tomo", short for "tomodachi", which means
 
 Tech Stack: React Native, React Native Paper, HTML, CSS, and Firebase.
 
-**🖥️ [Turnip: Public Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975)** - _Full-Stack Developer & Product Owner_
+**🖥️ [Turnip: Public Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) - _Full-Stack Developer & Product Owner_**
 
 Turnip is a web app I built that allows users to buy and sell their used items. The idea was inspired by a beautiful app I used while I was in Korea called Karrot, which is an e-commerce app. I was disappointed with the current offerings of buy-and-sell websites, so I created my own with a more modern and user-friendly design.
 
