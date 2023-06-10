@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ravi
 
-**I'm a software engineer passionate about frontend development and UI.**
+**I'm a software engineer passionate about frontend development and UI / UX.**
 
 
 - 🔭 I’m currently working on an open-source site for [**Canada DevOps Community of Practice Canada**](https://www.linkedin.com/company/canada-devops-community-of-practice/)
@@ -8,7 +8,7 @@
 - 📫 How to reach me: jadeleafmoon@gmail.com
 - ⚡ Fun facts: I love playing challenging acoustic guitar songs 🎸 and taking landscape photos 📷
 
-## Runtomo 📱
+## Take a Look 📱
 
 I was a Frontend Engineer for Runtomo, a mobile app for runners, built with **React Native**.
 
