@@ -28,3 +28,8 @@ I've always loved learning languages!
 - French: Advanced (I'm from Montreal, Quebec 🇨🇦)
 - Korean: Intermediate (TOPIK 3)
 - Japanese: Beginner
+
+## Let's Connect
+- jadeleafmoon@gmail.com
+- [LinkedIn](linkedin.com/in/ravikalsi/)
+- [YouTube](https://www.youtube.com/watch?v=ijyDfnP7na8) 
