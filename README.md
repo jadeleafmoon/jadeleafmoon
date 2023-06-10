@@ -14,8 +14,6 @@
 
 Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neghborhood and find great running paths. 🏃‍♀️
 
-The name Runtomo comes from "Run" and "tomo", short for "tomodachi", which means "friend" in Japanese! 🏃
-
 Tech Stack: React Native, React Native Paper, HTML, CSS, and Firebase.
 
 **🖥️ [Turnip: Public Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) - _Full-Stack Developer & Product Owner_**
