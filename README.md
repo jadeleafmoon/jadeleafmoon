@@ -12,7 +12,7 @@
 
 📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8)** - _Frontend Developer & UX Lead_
 
-Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running a more fun and social where people can explore new parts of their neghborhood and find great running paths. 🏃‍♀️
+Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neghborhood and find great running paths. 🏃‍♀️
 
 The name Runtomo comes from "Run" and "Tomo", short for "tomodachi", which means "friend" in Japanese! 🏃
 
