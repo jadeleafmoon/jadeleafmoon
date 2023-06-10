@@ -22,7 +22,7 @@ Tech Stack: React Native, React Native Paper, HTML, CSS, and Firebase.
 
 Turnip is a web app I built that allows users to buy and sell their used items. The idea was inspired by a beautiful app I used while I was in Korea called Karrot, which is an e-commerce app. I was disappointed with the current offerings of buy-and-sell websites, so I created my own with a more modern and user-friendly design.
 
-Tech stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
+Tech Stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
 
 ## Tech Skills 💻
 
