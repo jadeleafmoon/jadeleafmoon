@@ -29,7 +29,7 @@ I've always loved learning languages!
 - Korean: Intermediate (TOPIK 3)
 - Japanese: Beginner
 
-## Let's Connect
+## Let's Connect 👋
 - jadeleafmoon@gmail.com
 - [LinkedIn](linkedin.com/in/ravikalsi/)
 - [YouTube](https://www.youtube.com/watch?v=ijyDfnP7na8) 
