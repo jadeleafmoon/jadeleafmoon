@@ -8,6 +8,15 @@
 - 📫 How to reach me: jadeleafmoon@gmail.com
 - ⚡ Fun facts: I love playing challenging acoustic guitar songs 🎸 and taking landscape photos 📷
 
+## Tech Skills 💻
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frontend**: React, React Native
+- **Backend:** Node, Express, PostgreSQL, Knex
+- **Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, TDD, Heroku, Railway, Expo App Store, Agile
+
+Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ruby on Rails.
+
 ## Take a Look 📺
 
 📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_**
@@ -22,14 +31,9 @@ Turnip is a web app I built that allows users to buy and sell their used items. 
 
 Tech Stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
 
-## Tech Skills 💻
-
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frontend**: React, React Native
-- **Backend:** Node, Express, PostgreSQL, Knex
-- **Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, TDD, Heroku, Railway, Expo App Store, Agile
-
-Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ruby on Rails.
+## Blog Posts 🖊️
+- [The Power of Pair Programming: How I Leveled Up My Communication Skills](https://github.com/jadeleafmoon/blog/blob/main/pair-programming.md)
+- [My Favorite Resources on Studying Data Structures, Algorithms, and Patterns](https://github.com/jadeleafmoon/blog/blob/main/algorithms.md)
 
 ## Spoken Languages 🗺️
 
@@ -38,10 +42,6 @@ I've always loved learning languages!
 - French: Advanced
 - Korean: Intermediate (TOPIK 3)
 - Japanese: Beginner
-
-## Blog Posts 🖊️
-- [The Power of Pair Programming: How I Leveled Up My Communication Skills](https://github.com/jadeleafmoon/blog/blob/main/pair-programming.md)
-- [My Favorite Resources on Studying Data Structures, Algorithms, and Patterns](https://github.com/jadeleafmoon/blog/blob/main/algorithms.md)
 
 ## Let's Connect 👋
 - jadeleafmoon@gmail.com
