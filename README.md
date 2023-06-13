@@ -12,7 +12,7 @@
 
 📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_**
 
-Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neghborhood and find great running paths. 🏃‍♀️
+Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neighborhood and find great running paths. 🏃‍♀️
 
 Tech Stack: React Native, React Native Paper, HTML, CSS, and Firebase.
 
@@ -38,6 +38,9 @@ I've always loved learning languages!
 - French: Advanced
 - Korean: Intermediate (TOPIK 3)
 - Japanese: Beginner
+
+## Blog Posts 🖊️
+- [My Favorite Resources on Studying Data Structures, Algorithms, and Patterns](https://github.com/jadeleafmoon/blog/blob/main/algorithms.md)
 
 ## Let's Connect 👋
 - jadeleafmoon@gmail.com
