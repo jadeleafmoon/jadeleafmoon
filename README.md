@@ -38,7 +38,6 @@ I've always loved learning languages!
 - French: Advanced
 - Korean: Intermediate (TOPIK 3)
 - Japanese: Beginner
-- Punjabi: 50%? My parents speak to me in Punjabi, though I speak to them in English 😂
 
 ## Let's Connect 👋
 - jadeleafmoon@gmail.com
