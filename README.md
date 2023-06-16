@@ -45,5 +45,5 @@ I've always loved learning languages!
 
 ## Let's Connect 👋
 - jadeleafmoon@gmail.com
-- [LinkedIn](linkedin.com/in/ravikalsi/)
+- [LinkedIn](https://www.linkedin.com/in/ravikalsi/)
 - [YouTube](https://www.youtube.com/watch?v=ijyDfnP7na8) 
