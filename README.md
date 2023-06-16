@@ -37,7 +37,6 @@ Tech Stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and F
 
 ## Spoken Languages 🗺️
 
-I've always loved learning languages! 
 - English: Native
 - French: Advanced
 - Korean: Intermediate (TOPIK 3)
