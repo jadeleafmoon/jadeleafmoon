@@ -19,13 +19,13 @@ Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ru
 
 ## Take a Look 📺
 
-📱 **[Runtomo: Video Demo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_**
+**[Runtomo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_** - 📺 [Video Demo](https://youtu.be/ijyDfnP7na8) 💻 [Code](https://github.com/CCP4-senior/runtomo-frontend)
 
 Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neighborhood and find great running paths. 🏃‍♀️
 
 Tech Stack: React Native, React Native Paper, HTML, CSS, and Firebase.
 
-**🖥️ [Turnip: Public Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) - _Full-Stack Developer & Product Owner_**
+**[Turnip](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) - _Full-Stack Developer & Product Owner_** - 📺 [Video Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) 💻 [Code](https://github.com/jadeleafmoon/turnip-app)
 
 Turnip is a web app I built that allows users to buy and sell their used items. I was disappointed with the current offerings of marketplaces, so I created my own with a more modern and user-friendly design.
 
