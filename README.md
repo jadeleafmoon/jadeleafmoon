@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ravi
+## Hi there, I'm Ravi 👋
 
 **I'm a software engineer passionate about frontend development and understanding the user experience.**
 
