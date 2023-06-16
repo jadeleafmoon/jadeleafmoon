@@ -35,13 +35,6 @@ Tech Stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and F
 - [The Power of Pair Programming: How I Leveled Up My Communication Skills](https://github.com/jadeleafmoon/blog/blob/main/pair-programming.md)
 - [My Favorite Resources on Studying Data Structures, Algorithms, and Patterns](https://github.com/jadeleafmoon/blog/blob/main/algorithms.md)
 
-## Spoken Languages 🗺️
-
-- English: Native
-- French: Advanced
-- Korean: Intermediate (TOPIK 3)
-- Japanese: Beginner
-
 ## Let's Connect 👋
 - jadeleafmoon@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ravikalsi/)
