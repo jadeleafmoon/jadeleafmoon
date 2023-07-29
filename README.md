@@ -3,7 +3,7 @@
 **I'm a software engineer passionate about frontend development and understanding the user experience.**
 
 
-- 🔭 I’m currently working on an open-source site for [**Canada DevOps Community of Practice Canada**](https://www.linkedin.com/company/canada-devops-community-of-practice/posts/?feedView=all)
+- 🔭 I’m currently learning **Python** for studying Data Structures and Algorithms. Quite fun!
 - 💬 Ask me about **how to give a good Tech Talk** ⚡
 - 📫 How to reach me: jadeleafmoon@gmail.com
 - ⚡ Fun fact: I love playing challenging acoustic guitar songs 🎸
