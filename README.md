@@ -10,7 +10,7 @@
 
 ## Tech Skills 💻
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Languages:** JavaScript, HTML, CSS
 - **Frontend**: React, React Native
 - **Backend:** Node, Express, PostgreSQL, Knex
 - **Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, TDD, Heroku, Railway, Expo App Store, Agile
