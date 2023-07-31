@@ -3,7 +3,7 @@
 **I'm a software engineer passionate about frontend development and understanding the user experience.**
 
 
-- 🔭 I’m currently learning **Python** for solving data structures and algorithm problems. 
+- 🔭 I’m currently learning **Python**. Loving it!
 - 💬 Ask me about **how to give a good Tech Talk** ⚡
 - 📫 How to reach me: jadeleafmoon@gmail.com
 - ⚡ Fun fact: I love playing challenging acoustic guitar songs 🎸
