@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently learning **Python**. Loving it!
-- 💬 Ask me about **how to give a good Tech Talk** ⚡
+- 📖 I'm reading [Inspired by Marty Cagan](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers/dp/1119387507), which is great book on product management.
 - 📫 How to reach me: jadeleafmoon@gmail.com
 - ⚡ Fun fact: I love playing challenging acoustic guitar songs 🎸
 
