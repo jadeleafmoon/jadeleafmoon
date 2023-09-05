@@ -32,7 +32,7 @@ Turnip is a web app I built that allows users to buy and sell their used items. 
 Tech Stack: JavaScript, React, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
 
 ## Blog Posts 🖊️
-- [The Power of Pair Programming: How I Leveled Up My Communication Skills](https://github.com/jadeleafmoon/blog/blob/main/pair-programming.md)
+- [The Power of Pair Programming: How I Leveled Up My Communication Skills](https://www.codechrysalis.io/alumni-blog/the-power-of-pair-programming-how-i-leveled-up-my-communication-skills)
 - [My Favorite Resources on Studying Data Structures, Algorithms, and Patterns](https://github.com/jadeleafmoon/blog/blob/main/algorithms.md)
 
 ## Let's Connect 👋
