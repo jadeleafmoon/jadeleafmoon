@@ -26,7 +26,7 @@ A colorful and relaxing puzzle game.
 Tech Stack: Vue 3, JavaScript, HTML, and CSS.
 
 <div align="center">
-    <img src="./images/gradiance01.jpg" width="200px" style="border-radius: 5px;">
+    <a href="https://gradiance.ca"><img src="./images/gradiance01.jpg" width="200px" style="border-radius: 5px;"></a>
 </div>
 
 
@@ -37,7 +37,7 @@ Runtomo is a mobile app for runners to find running buddies and create events. W
 Tech Stack: React Native, React Native Paper, JavaScript, HTML, CSS, and Firebase.
 
 <div align="center">
-    <img src="./images/runtomo01.png" width="200px" style="border-radius: 5px;">
+    <a href="https://youtu.be/ijyDfnP7na8"><img src="./images/runtomo01.png" width="200px" style="border-radius: 5px;"></a>
 </div>
 
 
