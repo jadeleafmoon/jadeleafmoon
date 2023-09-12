@@ -19,21 +19,25 @@ Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ru
 
 ## Take a Look 📺
 
-<div align="center">
-    <img src="./images/gradiance01.jpg" width="200px">
-</div>
-
 **[Gradiance](https://gradiance.ca) - _Frontend Developer & Product Owner_ -** [gradiance.ca](https://gradiance.ca) 💻 [Code](https://github.com/jadeleafmoon/gradiance)
 
 A colorful and relaxing puzzle game.
 
 Tech Stack: Vue 3, JavaScript, HTML, and CSS.
 
+<div align="center">
+    <img src="./images/gradiance01.jpg" width="200px" style="border-radius: 5px;">
+</div>
+
 **[Runtomo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_** - 📺 [Video Demo](https://youtu.be/ijyDfnP7na8) 💻 [Code](https://github.com/CCP4-senior/runtomo-frontend)
 
 Runtomo is a mobile app for runners to find running buddies and create events. We wanted to make running more fun and social where people can explore new parts of their neighborhood and find great running paths. 🏃‍♀️
 
 Tech Stack: React Native, React Native Paper, JavaScript, HTML, CSS, and Firebase.
+
+<div align="center">
+    <img src="./images/runtomo01.jpg" width="200px" style="border-radius: 5px;">
+</div>
 
 **[Turnip](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) - _Full-Stack Developer & Product Owner_** - 📺 [Video Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) 💻 [Code](https://github.com/jadeleafmoon/turnip-app)
 
