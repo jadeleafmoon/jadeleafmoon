@@ -20,7 +20,7 @@ Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ru
 ## Take a Look 📺
 
 <div align="center">
-    <img src="./src/assets/gradiance-vid01.gif" width="200px">
+    <img src="./images/gradiance01.jpg" width="200px">
 </div>
 
 **[Gradiance](https://gradiance.ca) - _Frontend Developer & Product Owner_ -** [gradiance.ca](https://gradiance.ca) 💻 [Code](https://github.com/jadeleafmoon/gradiance)
