@@ -29,6 +29,8 @@ Tech Stack: Vue 3, JavaScript, HTML, and CSS.
     <a href="https://gradiance.ca"><img src="./images/gradiance01.jpg" width="200px" style="border-radius: 5px;"></a>
 </div>
 
+<br>
+
 
 **[Runtomo](https://youtu.be/ijyDfnP7na8) - _Frontend Developer & UX Lead_** - 📺 [Video Demo](https://youtu.be/ijyDfnP7na8) 💻 [Code](https://github.com/CCP4-senior/runtomo-frontend)
 
@@ -40,6 +42,7 @@ Tech Stack: React Native, React Native Paper, JavaScript, HTML, CSS, and Firebas
     <a href="https://youtu.be/ijyDfnP7na8"><img src="./images/runtomo01.png" width="300px" style="border-radius: 5px;"></a>
 </div>
 
+<br>
 
 **[Turnip](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) - _Full-Stack Developer & Product Owner_** - 📺 [Video Demo](https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=975) 💻 [Code](https://github.com/jadeleafmoon/turnip-app)
 
