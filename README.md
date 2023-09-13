@@ -49,7 +49,7 @@ Turnip is a web app I built that allows users to buy and sell their used items. 
 Tech Stack: React, JavaScript, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
 
 <div align="center">
-    <a href="https://youtu.be/ijyDfnP7na8"><img src="./images/turnip-demo-01.png" width="400px" style="border-radius: 5px;"></a>
+    <a href="https://www.youtube.com/live/jLNM3GcS53U?feature=share&t=976"><img src="./images/turnip-demo-01.png" width="400px" style="border-radius: 5px;"></a>
 </div>
 
 ## Blog Posts 🖊️
