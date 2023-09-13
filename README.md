@@ -24,7 +24,7 @@ A colorful and relaxing puzzle game.
 Tech Stack: Vue 3, JavaScript, HTML, and CSS.
 
 <div align="center">
-    <a href="https://gradiance.ca"><img src="./images/gradiance01.jpg" width="200px" style="border-radius: 5px;"></a>
+    <a href="https://gradiance.ca"><img src="./images/gradiance01.jpg" width="250px" style="border-radius: 5px;"></a>
 </div>
 
 <br>
@@ -37,7 +37,7 @@ Runtomo is a mobile app for runners to find running buddies and create events. W
 Tech Stack: React Native, React Native Paper, JavaScript, HTML, CSS, and Firebase.
 
 <div align="center">
-    <a href="https://youtu.be/ijyDfnP7na8"><img src="./images/runtomo01.png" width="300px" style="border-radius: 5px;"></a>
+    <a href="https://youtu.be/ijyDfnP7na8"><img src="./images/runtomo01.png" width="400px" style="border-radius: 5px;"></a>
 </div>
 
 <br>
@@ -47,6 +47,10 @@ Tech Stack: React Native, React Native Paper, JavaScript, HTML, CSS, and Firebas
 Turnip is a web app I built that allows users to buy and sell their used items. I was disappointed with the current offerings of marketplaces, so I created my own with a more modern and user-friendly design.
 
 Tech Stack: React, JavaScript, Node, Express, Knex, PostgreSQL, HTML, CSS, and Firebase.
+
+<div align="center">
+    <a href="https://youtu.be/ijyDfnP7na8"><img src="./images/turnip-demo-01.png" width="400px" style="border-radius: 5px;"></a>
+</div>
 
 ## Blog Posts 🖊️
 - [The Power of Pair Programming: How I Leveled Up My Communication Skills](https://www.codechrysalis.io/alumni-blog/the-power-of-pair-programming-how-i-leveled-up-my-communication-skills)
