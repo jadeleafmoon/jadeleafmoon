@@ -4,6 +4,7 @@
 
 - 📖 I'm reading [Inspired by Marty Cagan](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers/dp/1119387507), which is great book on product management.
 - 📫 How to reach me: jadeleafmoon@gmail.com
+- 💻 I work at [FLiiP](https://myfliip.com/) as a Full-Stack Software Developer.
 
 ## Tech Skills 💻
 
@@ -12,7 +13,7 @@
 - **Backend:** Node, Express, PostgreSQL, Knex
 - **Additional Tools:** Git, GitHub, Firebase, Bootstrap, Mocha, Chai, TDD, Heroku, Railway, Expo App Store, Agile
 
-Though it's been a while, I also have experience with Vue, GraphQL, Ruby, and Ruby on Rails.
+I also have experience with Vue and GraphQL.
 
 ## Take a Look 📺
 
